@@ -1,3 +1,3 @@
 source "https://rubygems.org"
 
-gem 'jekyll', '~> 3.5.2'
+gem 'gulp', '~> 3.9.1'
