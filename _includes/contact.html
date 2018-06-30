@@ -3,17 +3,13 @@
 
   <form method="post" action="https://www.briskforms.com/go/ead9e4cb23a6f6c6e14d61f31121b62e">
     <p>
-      <input type="text" name="Name" id="Name" width="35" value="" placeholder="What is your name?" required>
-    </p>
-
-    <p>
-      <input type="email" name="Email" id="Email" width="35" value="" placeholder="What is your email?" required>
+      <input type="text" name="Name" id="Name" width="35" value="" placeholder="What is your name?" autocomplete="name" required>
     </p>
     <p>
-      <input type="email" name="Email" id="Email" width="35" value="" placeholder="What is your email?" required>
+      <input type="email" name="Email" id="Email" width="35" value="" placeholder="What is your email?" autocomplete="email" required>
     </p>
     <p>
-      <textarea name="Message" id="Message" rows="6" cols="30" placeholder="What would you like to say?" required></textarea>
+      <textarea name="Message" id="Message" rows="6" cols="30" autocomplete="off" placeholder="What would you like to say?" required></textarea>
     </p>
     <p>
       <input type="submit" name="submit" width="35" value="Send Message" class="submit-button">
