@@ -5,9 +5,15 @@ description: Someday, I'll grow up and be a real website. You'll see!
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
+<<<<<<< HEAD
 username: Andrew Metzger
 user_description: Hello there. I'm Andrew, but you can call me Andrew. This is a blurb about me. It's not very long I'm afraid, only 350 characters or so. Alas, it would be longer than that, but I'm just not *that* interesting. At any rate, scroll down to find out more about me and the projects I work on. You can also visit my blog, where I write things sometimes.
 user_title: Student of life
+=======
+username: Anon Developer
+user_description: Hello there. I'm Andrew, but you can call me Andrew. This is a blurb about me. It's not very long I'm afraid, only 350 characters or so. Alas, it would be longer than that, but I'm just not *that* interesting. At any rate, scroll down to find out more about me and the projects I work on. You can also visit my blog, where I write things sometimes.
+user_title: Software Developer
+>>>>>>> 69932bf54b6f530501f2d3f6ea363a2f6357da5d
 email: andrew@mtz.gr
 twitter_username:
 github_username:  andrewjmetzger
